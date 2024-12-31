@@ -107,6 +107,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Radman](https://github.com/radman17)👽
 - [Mahdi Baha 💻](https://github.com/mahdibaham)
 - [Alireza Abbasi 🖤](https://github.com/alirezaabbasi-dev)
+- [Ali Zarkami](https://github.com/AliZarkami)
 - [Ali Abbasi](https://github.com/aliabbasi2000)
 - [_iliro_](https://github.com/iliro6)
 - [ParsaJR](https://github.com/ParsaJR)
